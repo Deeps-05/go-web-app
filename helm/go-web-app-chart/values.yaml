@@ -7,7 +7,7 @@ replicaCount: 1
 image:
   repository: deeps05/go-web-app
   pullPolicy: IfNotPresent
-  tag: "14418836772"
+  tag: "14420256834"
 
 ingress:
   enabled: false
